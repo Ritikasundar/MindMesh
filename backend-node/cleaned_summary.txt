@@ -1,0 +1,30 @@
+CALVIN CYCLE STEPS
+
+  Carbon Fixation
+    CO2 is brought into plant.
+      CO2 attaches to carbon.
+        Rubisco speeds up reaction.
+          Rubisco, a common protein.
+            Attaches carbon to RuBP.
+              Creates a six-carbon molecule.
+                Splits into two chemicals.
+                  Each with three carbons.
+
+  Reduction
+    ATP and NADPH transform.
+      Three-carbon molecules to sugar.
+        Sugar molecules called G3P.
+          Stands for glyceraldehyde 3-phosphate.
+
+  Carbohydrate Formation
+    Some G3P leaves the cycle.
+      Converts into bigger sugars.
+        Such as glucose (C6H12O6).
+
+  Regeneration
+    Leftover G3P uses ATP.
+      Picks up two more carbons.
+        Becomes RuBP.
+          Pairs with rubisco.
+            Ready for next CO2.
+              Starts the cycle again.
